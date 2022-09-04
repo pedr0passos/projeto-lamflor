@@ -2562,6 +2562,7 @@ i.greennature-icon {
 	height: 250px;
 	width: 200px;
 	margin: 0 23%;
+	border-radius: 3px;
 }
 
 /*--- pie chart ---*/
