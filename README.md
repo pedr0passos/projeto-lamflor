@@ -8,9 +8,10 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/contact-page.html" target="_blank">Página de Contatos</a> <br>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/team.html" target="_blank">Página de Equipe</a>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/team.html" target="_blank">Página de Equipe</a> <br>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/lab.html" target="_blank">Página do Laboratório</a>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/lab.html" target="_blank">Página do Laboratório</a> <br>
 
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/arq-uteis.html" target="_blank">Página de Arquivos Úteis</a>
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>
