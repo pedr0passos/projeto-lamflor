@@ -6172,6 +6172,7 @@ input[type="text"].greennature-payment-price-fill {
 	max-width: 1325px;
 }
 
+<<<<<<< Updated upstream
 .gallery-item > p {
 	font-size: 25px;
 	text-align: center;
@@ -6202,3 +6203,13 @@ input[type="text"].greennature-payment-price-fill {
 	background-color: #3b7c42;
 	border-radius: 8px;
 }
+=======
+#titulo-team {
+	font-size: 70px;
+}
+
+#subtitulo-team {
+	font-size: 38px;
+}
+
+>>>>>>> Stashed changes
