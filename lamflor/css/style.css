@@ -3322,7 +3322,10 @@ pre {
 }
 
 .greennature-gallery-item.greennature-item .gallery-item {
-	margin: 0px 5px 10px;
+	margin: 15px;
+	font-size: 20px;
+	text-align: center;
+
 }
 
 .greennature-gallery-item.greennature-item .gallery-item img {
