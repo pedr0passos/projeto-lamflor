@@ -13,5 +13,7 @@
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/lab.html" target="_blank">Página do Laboratório</a> <br>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/arq-uteis.html" target="_blank">Página de Arquivos Úteis</a>
+  
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/links-uteis.html" target="_blank">Página de Links Úteis</a>
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>
