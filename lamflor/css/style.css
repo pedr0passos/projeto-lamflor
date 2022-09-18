@@ -3321,11 +3321,28 @@ pre {
 	margin: 0px 10px;
 }
 
+.gallery-text {
+	color: #808080;
+	font-size: 15px;
+	text-align: justify;
+	line-height: 0px;
+}
+
+.gallery-links {
+	transition: 0.4s;
+}
+
+.gallery-links:hover {
+	transition: 0.4s;
+	scale: 0.9555;
+}
+
 .greennature-gallery-item.greennature-item .gallery-item {
+	border: 1px solid #808080;
+	padding: 8px;
 	margin: 15px;
 	font-size: 20px;
 	text-align: center;
-
 }
 
 .greennature-gallery-item.greennature-item .gallery-item img {
@@ -6175,7 +6192,8 @@ input[type="text"].greennature-payment-price-fill {
 	max-width: 1325px;
 }
 
-<<<<<<< Updated upstream
+
+
 .gallery-item > p {
 	font-size: 25px;
 	text-align: center;
@@ -6206,13 +6224,4 @@ input[type="text"].greennature-payment-price-fill {
 	background-color: #3b7c42;
 	border-radius: 8px;
 }
-=======
-#titulo-team {
-	font-size: 70px;
-}
 
-#subtitulo-team {
-	font-size: 38px;
-}
-
->>>>>>> Stashed changes
