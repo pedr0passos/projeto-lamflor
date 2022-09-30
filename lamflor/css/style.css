@@ -4751,6 +4751,14 @@ body.single .greennature-blog-full {
 	text-transform: uppercase;
 }
 
+.di-title {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 6px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
 .greennature-classic-portfolio .portfolio-info {
 	font-size: 11px;
 	font-weight: bold;
@@ -4764,6 +4772,10 @@ body.single .greennature-blog-full {
 
 .greennature-classic-portfolio .portfolio-excerpt {
 	margin-top: 14px;
+}
+
+.di-text {
+	font-size: 15px;
 }
 
 .greennature-classic-portfolio .excerpt-read-more {
@@ -6265,4 +6277,12 @@ input[type="text"].greennature-payment-price-fill {
 	margin-left: auto;
 	margin-right: auto;
 }
->>>>>>> Stashed changes
+
+#image-team {
+	height: 450px;
+	width: 70vw;
+	background-image: url(../upload/equipe/Equipe.webp);
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
