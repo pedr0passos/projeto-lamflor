@@ -6301,3 +6301,8 @@ input[type="text"].greennature-payment-price-fill {
 #structure{
 	text-align: justify;
 }
+
+#team-pic{
+	left: 0px;
+	right: 27%;
+}
