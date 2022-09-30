@@ -6272,10 +6272,15 @@ input[type="text"].greennature-payment-price-fill {
 	text-align: justify;
 }
 
+#our-house{
+	text-align: justify;
+}
+
 #labslider{
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 50px;
 }
 
 #image-team {
@@ -6286,6 +6291,7 @@ input[type="text"].greennature-payment-price-fill {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+>>>>>>> Stashed changes
 
 #research-areas{
 	padding-left: 20px;
@@ -6294,4 +6300,9 @@ input[type="text"].greennature-payment-price-fill {
 
 #structure{
 	text-align: justify;
+}
+
+#team-pic{
+	left: 0px;
+	right: 27%;
 }
