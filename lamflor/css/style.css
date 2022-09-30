@@ -554,7 +554,7 @@ h6 {
 
 .greennature-half-bg.greennature-bg-solid {
 	left: 0px;
-	right: 27%;
+	right: 50%;
 }
 
 .greennature-half-bg.greennature-solid-bg {
@@ -1748,7 +1748,7 @@ input[type="submit"] {
 	margin-top: 6px;
 }
 
-.greennature-title-left .about-us-content-wrapper {
+.greennature-title-left .about-us-content-wrapper { 
 	overflow: hidden;
 }
 /*--- column service ---*/
@@ -6286,3 +6286,4 @@ input[type="text"].greennature-payment-price-fill {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
