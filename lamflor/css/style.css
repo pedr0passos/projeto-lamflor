@@ -6287,3 +6287,11 @@ input[type="text"].greennature-payment-price-fill {
 	background-size: cover;
 }
 
+#research-areas{
+	padding-left: 20px;
+	font-size: 15px;
+}
+
+#structure{
+	text-align: justify;
+}
