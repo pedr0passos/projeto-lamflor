@@ -10,12 +10,12 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/team.html" target="_blank">Página de Equipe</a> <strong>(Última Atualização: 15/09)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/lab.html" target="_blank">Página do Laboratório</a> 
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/lab.html" target="_blank">Página do Laboratório</a> <strong>(Última Atualização: 30/09)</strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/arq-uteis.html" target="_blank">Página de Arquivos Úteis</a> <strong>(Última Atualização: 05/09)</strong>
   
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/links-uteis.html" target="_blank">Página de Links Úteis</a>  <strong>(Última Atualização: 18/09)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 28/09)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-2.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 01/10)</strong>
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>

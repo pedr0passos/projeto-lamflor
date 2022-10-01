@@ -4752,11 +4752,22 @@ body.single .greennature-blog-full {
 }
 
 .di-title {
-	font-size: 20px;
+	font-size: 30px;
 	font-weight: bold;
-	margin-bottom: 6px;
+	margin-bottom: 15px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
+	color: #5dc269;
+}
+
+.di-slider {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.di-text {
+
 }
 
 .greennature-classic-portfolio .portfolio-info {
@@ -6299,6 +6310,22 @@ input[type="text"].greennature-payment-price-fill {
 
 #structure{
 	text-align: justify;
+}
+
+.grad-text {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+#di-cursos {
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+.di-list-item {
+	font-size: 18px;
+	color: rgb(45, 45, 45);
 }
 
 #team-pic{
