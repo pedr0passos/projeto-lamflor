@@ -16,6 +16,6 @@
   
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/links-uteis.html" target="_blank">Página de Links Úteis</a>  <strong>(Última Atualização: 18/09)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-2.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 02/10)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 02/10)</strong>
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>
