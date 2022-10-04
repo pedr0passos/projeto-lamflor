@@ -6285,6 +6285,7 @@ input[type="text"].greennature-payment-price-fill {
 
 #our-house{
 	text-align: justify;
+	font-size: 15px;
 }
 
 #labslider{
@@ -6308,8 +6309,9 @@ input[type="text"].greennature-payment-price-fill {
 	font-size: 15px;
 }
 
-#structure{
+#structure-lab{
 	text-align: justify;
+	font-size: 15px;
 }
 
 .grad-text {
