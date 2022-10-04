@@ -18,9 +18,9 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 02/10)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-dendrometria.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 03/10)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-dendrometria.html" target="_blank">Página de Disciplinas - Dendrometria</a> <strong>(Última Atualização: 03/10)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-invent-florestal.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 03/10)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-invent-florestal.html" target="_blank">Página de Disciplinas - Inventario Florestal</a> <strong>(Última Atualização: 03/10)</strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades.html" target="_blank">Página de Novidades (incompleta)</a> <strong>(Última Atualização: 02/10)</strong>
 
