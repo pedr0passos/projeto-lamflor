@@ -26,6 +26,8 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-manejo-florestal-pos.html" target="_blank">Página de Disciplinas - Manejo Florestal para Pós-graduação (Incompleta)</a> <strong>(Última Atualização: 04/10)</strong>
 
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-mensuracao-florestal-pos.html" target="_blank">Página de Disciplinas - Mensuração Florestal para Pós-graduação (Incompleta)</a> <strong>(Última Atualização: 04/10)</strong>
+
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades.html" target="_blank">Página de Novidades (Incompleta)</a> <strong>(Última Atualização: 02/10)</strong>
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>
