@@ -6347,4 +6347,28 @@ input[type="text"].greennature-payment-price-fill {
 	font-size: 16px;
 }
 
+#equipamentos-section {
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #f3f3f3;
+}
+
+#equipamentos-text {
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+	font-size: 18px;
+	color: rgb(55, 55, 55);
+	padding: 25px;
+}
+.equipamentos-image {
+	background-color: red;
+	height: 200px;
+}
+
+.equipamentos-text {
+	text-align: left;
+}
+
 >>>>>>> Stashed changes
