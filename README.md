@@ -18,6 +18,10 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-2.html" target="_blank">Página de Disciplinas</a> <strong>(Última Atualização: 01/10)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades.html" target="_blank">Página de Novidades (incompleta)</a> <strong>(Última Atualização: 02/10)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades.html" target="_blank">Página de Novidades</a> <strong>(Última Atualização: 02/10)</strong>
+
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades_2.html" target="_blank">Continuação da página de Novidades</a> <strong>(Última Atualização: 08/10)</strong>
+
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades_3.html" target="_blank">Continuação da página de Novidades 2 (apenas criada)</a> <strong>(Última Atualização: 08/10)</strong>
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>
