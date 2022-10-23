@@ -8,7 +8,7 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/contact-page.html" target="_blank">Página de Contatos (Completa)</a> <strong>(Última Atualização: 16/09)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/team.html" target="_blank">Página de Equipe (Incompleta)</a> <strong>(Última Atualização: 15/09)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/team.html" target="_blank">Página de Equipe (Incompleta)</a> <strong>(Última Atualização: 23/10)</strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/lab.html" target="_blank">Página do Laboratório (Completa)</a> <strong>(Última Atualização: 30/09)</strong>
 
