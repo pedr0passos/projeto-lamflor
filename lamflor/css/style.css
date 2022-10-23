@@ -6343,6 +6343,11 @@ input[type="text"].greennature-payment-price-fill {
 	color: white;
 }
 
+#link-lattes{
+	color: #3b7c42;
+	font-size: 24px;
+}
+
 .font-disc{
 	font-size: 16px;
 }
