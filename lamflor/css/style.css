@@ -6343,11 +6343,6 @@ input[type="text"].greennature-payment-price-fill {
 	color: white;
 }
 
-#link-lattes{
-	color: #3b7c42;
-	font-size: 24px;
-}
-
 .font-disc{
 	font-size: 16px;
 }
@@ -6399,41 +6394,10 @@ input[type="text"].greennature-payment-price-fill {
 	margin-top: 20px;
 }
 
-.submit-button-pub {
-	transition: 0.2s;
-	font-size: 15px;
-	font-weight: bold;
-	letter-spacing: 0.8px;
-	padding: 15px;
-	width: 120px;
-	display: block;
-	-webkit-appearance: none;
-	background-color: #4b9e55;
-	border: 0;
-	color: #fff;
-	font-style: normal !important;
-	cursor: pointer;
-	font-style: normal;
-	margin: auto;
-	margin-bottom: 20px;
-}
-
-.submit-button-pub:hover {
-	transition: 0.2s;
-	background-color: #3b7c42;
-	border-radius: 8px;
-}
-
-
 .submit-button-equi:hover {
 	transition: 0.2s;
 	background-color: #3b7c42;
 	border-radius: 8px;
-}
-
-.texto-publicacoes {
-	margin-top: 10px;
-	margin-bottom: 20px;
 }
 
 @media (max-width: 767px ) {
@@ -6443,10 +6407,6 @@ input[type="text"].greennature-payment-price-fill {
 	}
 	.equipamentos-text {
 		text-align: center;
-	}
-	.submit-button-pub {
-		margin: initial;
-		margin-bottom: 20px;
 	}
 }
 

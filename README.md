@@ -8,7 +8,7 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/contact-page.html" target="_blank">Página de Contatos (Completa)</a> <strong>(Última Atualização: 16/09)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/team.html" target="_blank">Página de Equipe (Incompleta)</a> <strong>(Última Atualização: 23/10)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/team.html" target="_blank">Página de Equipe (Incompleta)</a> <strong>(Última Atualização: 15/09)</strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/lab.html" target="_blank">Página do Laboratório (Completa)</a> <strong>(Última Atualização: 30/09)</strong>
 
@@ -40,7 +40,7 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/equipamentos.html" target="_blank">Página de Equipamentos (Completa)</a> <strong>(Última Atualização: 12/10)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/publicacoes.html" target="_blank">Página de Publicações (Incompleta)</a> <strong>(Última Atualização: 24/10)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/publicacoes.html" target="_blank">Página de Publicações (Incompleta)</a> <strong>(Última Atualização: 23/10)</strong>
 
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>
