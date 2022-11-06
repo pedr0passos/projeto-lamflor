@@ -6415,6 +6415,7 @@ input[type="text"].greennature-payment-price-fill {
 	cursor: pointer;
 	font-style: normal;
 	margin: auto;
+	margin-top: 10px;
 	margin-bottom: 20px;
 }
 
@@ -6439,6 +6440,16 @@ input[type="text"].greennature-payment-price-fill {
 .titulo-conteudo-pub {
 	font-size: 25px;
 	color: rgba(0, 0, 0, 0.753);
+}
+
+.nomes-pub {
+	font-weight: bold; font-size: 16px;
+	margin-right: 6px;
+	margin-top: 10px;
+}
+
+.orientador-pub {
+	font-size: 14px;
 }
 
 @media (max-width: 767px ) {
