@@ -6437,6 +6437,9 @@ input[type="text"].greennature-payment-price-fill {
 	margin-bottom: 20px;
 	margin-left: 0px;
 }
+.texto-artigos {
+	margin-top: 20px;
+}
 
 .titulo-conteudo-pub {
 	font-size: 25px;
@@ -6452,7 +6455,7 @@ input[type="text"].greennature-payment-price-fill {
 .nomes-artigos {
 	text-align: center;
 	font-weight: bold; 
-	font-size: 16px;
+	font-size: 15px;
 	margin-right: 6px;
 	margin-top: 10px;
 }
