@@ -4,7 +4,7 @@
 
   Repositório colaborativo para o projeto de extensão da Universidade Federal do Espírito Santo. <br>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/index" target="_blank">Página Principal</a>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/index" target="_blank">Página Principal </a> <strong>(Última Atualização: 30/11) </strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/contact-page.html" target="_blank">Página de Contatos (Completa)</a> <strong>(Última Atualização: 16/09)</strong>
 
@@ -36,7 +36,7 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-otimizacao-recursos-florestais-II.html" target="_blank">Página de Disciplinas - Otimização do Uso de Recursos Florestais II (Incompleta)</a> <strong>(Última Atualização: 10/10)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades.html" target="_blank">Página de Novidades (Incompleta)</a> <strong>(Última Atualização: 13/10)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/novidades.html" target="_blank">Página de Novidades (Incompleta)</a> <strong>(Última Atualização: 30/11)</strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/equipamentos.html" target="_blank">Página de Equipamentos (Completa)</a> <strong>(Última Atualização: 12/10)</strong>
 
