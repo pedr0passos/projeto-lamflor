@@ -6368,7 +6368,7 @@ input[type="text"].greennature-payment-price-fill {
 	padding: 25px;
 }
 
-.bloco-equipamentos {
+.bloco-equipamentos, .bloco-arquivos-uteis, .bloco-links-uteis {
 	box-shadow: 0px 0px 9px 2px rgba(0, 0, 0, 0.107);
 	margin-bottom: 20px;
 }
