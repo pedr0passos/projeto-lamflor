@@ -4,7 +4,7 @@
 
   Repositório colaborativo para o projeto de extensão da Universidade Federal do Espírito Santo. <br>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/index" target="_blank">Página Principal (Incompleta)</a> <strong>(Última Atualização: 10/12) </strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/index" target="_blank">Página Principal (Incompleta)</a> <strong>(Última Atualização: 19/12) </strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/contact-page.html" target="_blank">Página de Contatos (Completa)</a> <strong>(Última Atualização: 16/09)</strong>
 
