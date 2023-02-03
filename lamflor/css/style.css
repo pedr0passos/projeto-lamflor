@@ -4019,7 +4019,7 @@ p.comment-form-cookies-consent {
 }
 
 .greennature-blog-thumbnail {
-	background: #000000;
+	background: white;
 }
 
 .greennature-blog-thumbnail.greennature-audio {
@@ -4087,6 +4087,10 @@ p.comment-form-cookies-consent {
 	text-transform: uppercase;
 	display: inline-block;
 	margin-top: 20px;
+}
+
+.excerpt-read-more:hover {
+	cursor: pointer;
 }
 
 .greennature-blog-widget.greennature-item {
