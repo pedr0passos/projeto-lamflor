@@ -16,7 +16,7 @@
   
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/links-uteis.html" target="_blank">Página de Links Úteis (Completa)</a>  <strong>(Última Atualização: 31/12)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas.html" target="_blank">Página de Disciplinas (Completa)</a> <strong>(Última Atualização: 31/12)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas.html" target="_blank">Página de Disciplinas (Completa)</a> <strong>(Última Atualização: 03/02)</strong>
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/disciplinas-dendrometria.html" target="_blank">Página de Disciplinas - Dendrometria (Completa)</a> <strong>(Última Atualização: 31/12)</strong>
 
@@ -40,7 +40,7 @@
 
   <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/equipamentos.html" target="_blank">Página de Equipamentos (Completa)</a> <strong>(Última Atualização: 31/12)</strong>
 
-  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/publicacoes.html" target="_blank">Página de Publicações (Completa)</a> <strong>(Última Atualização: 31/12)</strong>
+  <a href="https://pedr0passos.github.io/projeto-lamflor/lamflor/publicacoes.html" target="_blank">Página de Publicações (Completa)</a> <strong>(Última Atualização: 03/02)</strong>
 
 
   Reference link: <a href="https://www.labmmfufes.com/inicio">https://www.labmmfufes.com/inicio</a>
