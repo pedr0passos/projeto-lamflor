@@ -926,7 +926,7 @@ html .woocommerce .greennature-widget-title {
 }
 
 .greennature-navigation-wrapper .greennature-main-menu>li>a {
-	font-size: 13px;
+	font-size: 15px;
 	padding: 0px 33px 45px 0px;
 	margin: 0px;
 	text-transform: uppercase;
@@ -952,7 +952,7 @@ html .woocommerce .greennature-widget-title {
 }
 
 .greennature-donate-button {
-	font-size: 13px;
+	font-size: 15px;
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -1235,6 +1235,7 @@ html .woocommerce .greennature-widget-title {
 }
 
 .copyright-right {
+	font-size: 10px;
 	margin: 0px 15px;
 	float: right;
 }
@@ -6202,8 +6203,8 @@ input[type="text"].greennature-payment-price-fill {
 }
 
 #ulogo {
-	width: 40px;
-	height: 20px;
+	width: 60px;
+	height: 30px;
 }
 
 #aux {
