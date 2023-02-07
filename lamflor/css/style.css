@@ -492,6 +492,7 @@ h6 {
 	width: 91.667%;
 }
 
+/* .one-ninth, .one-eighth, .one-seventh, .one-fifth, .two-fifth, .three-fifth, .four-fifth, .one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .ten, .eleven,  */
 .twelve {
 	width: 100%;
 }
@@ -3759,7 +3760,7 @@ body .ms-skin-default .ms-slide .ms-slide-vcbtn {
 /*--- pagination ---*/
 .greennature-pagination {
 	margin: 0px 20px;
-	text-align: right;
+	text-align: center;
 	margin-bottom: 60px;
 }
 
@@ -6493,4 +6494,13 @@ input[type="text"].greennature-payment-price-fill {
 
 .biblio-paginas {
 	margin: 10px 10px 10px 0px;
+}
+
+.container-novidades {
+	display: flex;
+	justify-content: center;
+}
+
+.hidden {
+	display: none;
 }

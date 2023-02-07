@@ -14,3 +14,13 @@ function readMore(d, m, b) {
         btnReadMore.innerHTML = "Voltar"
     }
 }
+
+function loadImage(img_id){
+    var div_img = document.getElementById(img_id);
+
+    if(div_img.classList.contains("hidden")){
+        div_img.classList.remove("hidden");
+    }else{
+        div_img.classList.add("hidden");
+    }
+}
