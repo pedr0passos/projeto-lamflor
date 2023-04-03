@@ -6173,8 +6173,6 @@ input[type="text"].greennature-payment-price-fill {
 	color: #000 !important;
 }
 
-
-
 .submit-button {
 	transition: 0.2s;
 	font-size: 15px;
@@ -6198,14 +6196,15 @@ input[type="text"].greennature-payment-price-fill {
 	border-radius: 8px;
 }
 
-
 .greennature-image img {
 	width: 100%;
 }
 
 #ulogo {
-	width: 60px;
-	height: 30px;
+	width: 80px;
+	height: 40px;
+	position: relative;
+	top: -5px;
 }
 
 #aux {
@@ -6431,7 +6430,6 @@ input[type="text"].greennature-payment-price-fill {
 	border-radius: 8px;
 }
 
-
 .submit-button-equi:hover {
 	transition: 0.2s;
 	background-color: #3b7c42;
@@ -6495,7 +6493,6 @@ input[type="text"].greennature-payment-price-fill {
 .biblio-paginas {
 	margin: 10px 10px 10px 0px;
 }
-
 
 #button-404 {
 	background-color: white;
