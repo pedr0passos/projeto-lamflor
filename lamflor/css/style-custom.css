@@ -22,16 +22,13 @@ body {
 }
 
 .greennature-logo-inner {
-	max-width: 190px;
+	width: 70px;
+	padding: 15px;
 }
 
-.greennature-logo {
-	margin-top: 23px;
-}
-
-.greennature-logo {
-	margin-bottom: 28px;
-}
+ /* .greennature-logo {
+	width: 70px;
+} */
 
 .greennature-navigation-wrapper,
 .greennature-logo-right-text {

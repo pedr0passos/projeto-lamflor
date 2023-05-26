@@ -852,8 +852,9 @@ html .woocommerce .greennature-widget-title {
 
 .greennature-logo {
 	float: left;
-	margin-left: 0px;
-	margin-right: 15px;
+	margin-right: 30px;
+	background-color: white;
+	width: 100px;
 }
 
 .greennature-logo h1 {
@@ -870,13 +871,13 @@ html .woocommerce .greennature-widget-title {
 }
 
 .greennature-fixed-header .greennature-logo {
-	margin-top: 16px;
-	margin-bottom: 16px;
+	width: 70px;
 }
 
 .greennature-fixed-header .greennature-logo img {
 	max-height: 38px;
 	width: auto;
+	
 }
 
 .greennature-fixed-header .greennature-navigation-wrapper {

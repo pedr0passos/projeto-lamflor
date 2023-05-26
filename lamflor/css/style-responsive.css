@@ -31,15 +31,23 @@ html body {
 }
 
 @media only screen and (max-width: 1050px) {
+
 	body .greennature-logo {
 		float: none;
-		margin-top: 0px;
-		margin-bottom: 0px;
-		padding-top: 20px;
-		padding-bottom: 20px;
+		margin: auto;
+		border-radius: 10px;
+	}
+
+	.greennature-header-inner-overlay{
+		padding-bottom: 1px;
 	}
 
 	body .greennature-logo-inner {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	body {
 		margin: 0px auto;
 	}
 
@@ -113,6 +121,7 @@ html body {
 
 /*--- mobile landscape style ---*/
 @media only screen and (max-width: 767px) {
+
 	body .container {
 		max-width: 420px;
 	}
@@ -203,11 +212,14 @@ html body {
 	}
 
 	body .greennature-logo {
-		padding-right: 60px;
+		margin-right: 0px;
+		margin-left: 10px;
+		padding-right: 0px;
+		border-radius: 0px;
 	}
 
 	body .greennature-logo-inner {
-		margin-left: 0px;
+		margin: 0;
 	}
 
 	#greennature-responsive-navigation {
@@ -220,7 +232,7 @@ html body {
 	#greennature-responsive-navigation .dl-trigger {
 		position: absolute;
 		right: 15px;
-		top: 20px;
+		top: 30px;
 		margin-top: 0px;
 	}
 
