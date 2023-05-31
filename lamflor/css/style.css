@@ -675,6 +675,12 @@ img.greennature-full-boxed-background {
 	margin: 0px 15px;
 }
 
+.social-icon {
+	position: relative;
+	top: -5px;
+	left: 30px
+}
+
 .top-social-wrapper .social-icon {
 	font-size: 14px;
 	display: inline;
@@ -6205,7 +6211,16 @@ input[type="text"].greennature-payment-price-fill {
 	width: 80px;
 	height: 40px;
 	position: relative;
-	top: -10px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 0%);
+}
+
+#ulogo-footer {
+	width: 80px;
+	height: 40px;
+	position: relative;
+	top: 5px;
 }
 
 #aux {
@@ -6507,4 +6522,11 @@ input[type="text"].greennature-payment-price-fill {
 
 .hidden {
 	display: none;
+}
+
+.posicao-ulogo{
+	position: relative;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -15%);
 }
